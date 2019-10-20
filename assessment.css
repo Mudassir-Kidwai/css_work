@@ -1,0 +1,40 @@
+h1{
+    color: black;
+    border: 2px solid black;
+}
+
+.p1{
+    background: yellow;
+}
+
+h2{
+    color:purple;
+}
+h3{
+    color: palevioletred;
+}
+
+input{
+    border: 2px solid black;
+}
+
+.div-p{
+    background: lightyellow;
+}
+
+.majordiv{
+    background: blue;
+    border: 5px dotted yellow;
+}
+
+body{
+    background: lightgray;
+}
+
+.li1{
+    color: red;
+}
+
+ol li a:visited{
+    color: darkgray;
+}

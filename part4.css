@@ -1,0 +1,13 @@
+li{
+    color:red;
+}
+
+/* Class . */
+.firstOne{
+    color: blue;
+}
+/* ID # */
+#Second{
+    color: black;
+    border: 2px solid black;
+}
