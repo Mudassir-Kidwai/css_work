@@ -1,0 +1,16 @@
+body{
+    background: url(https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/001/090/spider-man-far-from-home-photo-1090749.jpg);
+    background-repeat: no-repeat;
+}
+div{
+    background: lightcoral;
+    border: lightskyblue;
+    border-width: 5px;
+    border-style: double;
+}
+span{
+    color: black;
+}
+p{
+    color: lawngreen;
+}
