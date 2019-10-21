@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+    text-align: center;
+    border: 40px solid black;
+    border-top: 0px;
+    margin: 0px;
+}
+
+p{
+    padding: 5% 20% 0% 20%;
+}
+
+form{
+    font-size: 1.5em;
+    margin-bottom: 10px ;
+}
+
+#sub{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px; 
+    margin: 4px;
+    border-radius: 20px;
+    background-color: yellow;   
+}
