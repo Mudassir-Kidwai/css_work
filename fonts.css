@@ -1,0 +1,13 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    font-size: 2.0em;
+}
+#two{
+    font-family: 'Liu Jian Mao Cao', cursive;;
+    font-style: oblique;
+    font-weight: 700;
+}
